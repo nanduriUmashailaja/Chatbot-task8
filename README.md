@@ -1,7 +1,6 @@
 # Chatbot-task8
 Create a rule-based chatbot.
 # Rule-based Chatbot in Python
-
 def chatbot_response(user_input):
     user_input = user_input.lower() 
     #Rules
